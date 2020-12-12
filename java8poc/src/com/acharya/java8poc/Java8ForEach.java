@@ -36,7 +36,7 @@ public class Java8ForEach {
 
 	}
 
-}
+}//this commit from git
 
 //Consumer implementation that can be reused
 class MyConsumer implements Consumer<Integer> {
